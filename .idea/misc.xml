@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_entmom.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_book_appointment.xml" value="0.1" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_calorie_tracker.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_corona_count.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_dentist_dad.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_details.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_entmom.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_find_doc.xml" value="0.10869565217391304" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_main.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_med_rem.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_ped_mon.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_psych_cherita.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_services.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_sign_up.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_sleep_tracker.xml" value="0.13179347826086957" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_step_counter.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_therapist_monica.xml" value="0.17864583333333334" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_use_docs.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/Administrator/Documents/KAMALSIRANDROID/mhealthApp2/app/src/main/res/layout/activity_view_calorie.xml" value="0.17864583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

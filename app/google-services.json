@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718509227875",
+    "project_id": "m-healthapprbl25feb",
+    "storage_bucket": "m-healthapprbl25feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718509227875:android:43398350ed32ffd6391d56",
+        "android_client_info": {
+          "package_name": "com.kamalclasses.m_healthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718509227875-i4i12nehrmopeoq5v3qh2ob8c1juhov7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ivNF_cPU_1ki9Nxk42CujrurZDX2SdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718509227875-i4i12nehrmopeoq5v3qh2ob8c1juhov7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kamalclasses.m_healthapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MhealthApp">
+        <activity
+            android:name=".ViewCalorieActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CoronaCountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PedMonActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PsychCheritaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TherapistMonicaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ENTMomActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DentistDadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".StepCounterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UseDocsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FindDocActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookAppointmentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CalorieTrackerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SleepTrackerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MedRemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ServicesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
